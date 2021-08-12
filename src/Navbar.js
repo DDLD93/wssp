@@ -3,7 +3,7 @@ export default function Navbar() {
     
     return (
     <nav>
-        <h3 className="title">WSSPNG</h3>
+        <h3 className="title">LOGO</h3>
         <ul>
           <li><a href="">Home</a></li>
           <li><a href="">About</a></li>

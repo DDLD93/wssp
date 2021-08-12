@@ -32,7 +32,7 @@ code {
 nav {
   display: flex;
   justify-content: space-between;
-  background-color: #1f1e1ee8;
+  background-color:black;
   padding-left: 10px;
 }
 ul li{
