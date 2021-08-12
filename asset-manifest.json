@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wssp/static/css/main.7610e439.chunk.css",
+    "main.js": "/wssp/static/js/main.e7fd2bc6.chunk.js",
+    "main.js.map": "/wssp/static/js/main.e7fd2bc6.chunk.js.map",
+    "runtime-main.js": "/wssp/static/js/runtime-main.25a653f8.js",
+    "runtime-main.js.map": "/wssp/static/js/runtime-main.25a653f8.js.map",
+    "static/js/2.6d162f14.chunk.js": "/wssp/static/js/2.6d162f14.chunk.js",
+    "static/js/2.6d162f14.chunk.js.map": "/wssp/static/js/2.6d162f14.chunk.js.map",
+    "index.html": "/wssp/index.html",
+    "static/css/main.7610e439.chunk.css.map": "/wssp/static/css/main.7610e439.chunk.css.map",
+    "static/js/2.6d162f14.chunk.js.LICENSE.txt": "/wssp/static/js/2.6d162f14.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/wssp/static/media/waffroad-1.33ad465e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25a653f8.js",
+    "static/js/2.6d162f14.chunk.js",
+    "static/css/main.7610e439.chunk.css",
+    "static/js/main.e7fd2bc6.chunk.js"
+  ]
+}
