@@ -31,7 +31,7 @@ export default function Home() {
             </div>
           <footer>
               <div className="about">
-                    <h3>About US</h3>
+                    <h2>About US</h2>
                     <hr style={{backgroundColor:"white"}} />
                     <ul className="footer-list">
                         <li>Services</li><br /><br />
@@ -42,10 +42,14 @@ export default function Home() {
                     <hr style={{backgroundColor:"white"}}  />
               </div>
               <div className="social">
-                  <h3>Get in touch with us</h3>
+                  <h2>Get in touch with us</h2>
                   <hr style={{backgroundColor:"white"}} />
                   <div className="social-links">
-
+                    <ul className="footer-list">
+                        <li>Twiiter</li>
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                    </ul>
                   </div>
 
               </div>
